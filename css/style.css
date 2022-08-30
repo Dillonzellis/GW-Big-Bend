@@ -1,0 +1,174 @@
+a.donate-btn {
+  background: #feb259;
+  color: black;
+  border-radius: 8px;
+  padding: 6px 20px;
+}
+.purpose-left p {
+  color: white;
+  font-size: 28px;
+  line-height: 32px;
+  margin-bottom: 20px;
+}
+.purpose-left h3 {
+  color: white;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+/*Index Menu Button Style*/
+.index-btn {
+  font-size: 16px;
+  color: #fff !important;
+  padding: 16px 25px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px solid #0053a0;
+  background: #0053a0 !important;
+  margin-bottom: 4px !important;
+}
+
+.index-btn:hover {
+  color: #ffffff !important;
+  background: rgba(0, 83, 160, 0.3);
+}
+
+.current_page_item {
+  background: #305b7e !important;
+}
+
+/* DE */
+
+/* Spanish cards */
+
+html[lang="es"]
+  #post-38
+  > div
+  > div
+  > div
+  > div.et_pb_section.et_pb_section_1.et_section_regular
+  > div
+  > div.et_pb_column.et_pb_column_1_5.et_pb_column_0.et_pb_css_mix_blend_mode_passthrough
+  > div
+  > div
+  > p
+  > font {
+  white-space: nowrap;
+}
+
+html[lang="es"]
+  #post-38
+  > div
+  > div
+  > div
+  > div.et_pb_section.et_pb_section_1.et_section_regular
+  > div
+  > div.et_pb_column.et_pb_column_1_5.et_pb_column_1.et_pb_css_mix_blend_mode_passthrough
+  > div
+  > div
+  > p
+  > font
+  > font {
+  white-space: nowrap;
+}
+
+html[lang="es"] .de-square h2 {
+  font-size: 27px;
+}
+
+html[lang="es"] .de-square p {
+  font-size: 17px;
+}
+
+/* sublink issue */
+
+#mega-menu-item-895 > a {
+  color: #fff !important;
+}
+
+#mega-menu-item-1501 > a {
+  color: #fff !important;
+}
+
+#mega-menu-item-292 > a {
+  color: #fff !important;
+}
+
+#mega-menu-item-417 > a {
+  color: #fff !important;
+}
+
+#mega-menu-item-454 > a {
+  color: #fff !important;
+}
+
+/* outline issue */
+
+a:focus {
+  outline: thick dotted red !important;
+}
+
+input:focus {
+  outline: thick dotted red !important;
+}
+
+textarea:focus {
+  outline: thick dotted red !important;
+}
+
+textarea {
+  border-color: #000000 !important;
+}
+
+.your-email > input {
+  border-color: #000000 !important;
+}
+
+/* footer contrast */
+
+.footer-mail {
+  color: #fff !important;
+  background-color: #1b1b1b !important;
+}
+
+/* headers */
+
+.card-sub-header {
+  font-size: 25px !important;
+  font-weight: 300;
+  line-height: 0;
+}
+
+.purpose-header {
+  color: #fff;
+  font-size: 28px;
+  line-height: 32px;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+.original-text {
+  text-align: unset !important;
+}
+
+.contrast-a {
+  color: #b0593d !important;
+}
+
+/* Golf Promo */
+
+.save-wrapper {
+  background-color: #2c4a92;
+}
+.save-wrapper p {
+  color: #fff;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding-top: 1rem;
+  padding-bottom: 1rem !important;
+}
+
+/* End DE Edits */
